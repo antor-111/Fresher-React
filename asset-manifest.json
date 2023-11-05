@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fresher-React/static/css/main.ad839c91.css",
+    "main.js": "/Fresher-React/static/js/main.04d0e6ef.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Fresher-React/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/Fresher-React/index.html",
+    "main.ad839c91.css.map": "/Fresher-React/static/css/main.ad839c91.css.map",
+    "main.04d0e6ef.js.map": "/Fresher-React/static/js/main.04d0e6ef.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Fresher-React/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad839c91.css",
+    "static/js/main.04d0e6ef.js"
+  ]
+}
